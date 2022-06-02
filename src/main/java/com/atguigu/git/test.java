@@ -9,5 +9,6 @@ public class test {
         System.out.println("git 1");
         System.out.println("git 2");
         System.out.println("git 3");
+        System.out.println("dev 添加");
     }
 }
