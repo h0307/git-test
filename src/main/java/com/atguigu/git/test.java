@@ -10,5 +10,6 @@ public class test {
         System.out.println("git 2");
         System.out.println("git 3");
         System.out.println("dev 添加");
+        System.out.println("master添加代码");
     }
 }
